@@ -9,7 +9,7 @@ The functionality that was discussed for the MVP is:
 - Product Pages
 - Links to social medias
 ## Target Audience
-The target auidence for this application are the owners of commerical and residential airconditioning and refrigeration units. Or put simpily the clientele of the Refcon Group. 
+The target auidence for this application are the owners of commerical and residential airconditioning and refrigeration units or put simpily the clientele of the Refcon Group. 
 ## Tech Stack
 The tech stack that we have utilised for this project is the MERN stack. This stack uses MongoDB as the database, Express for the server, React for the front end and Node.js as the server enviroment. 
 ## Dataflow Diagram
