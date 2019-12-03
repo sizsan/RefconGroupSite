@@ -23,4 +23,8 @@ The tech stack that we have utilised for this project is the MERN stack. This st
 #### US6 - As a User I can Leave reviews/testimonials about the Refon Group.
 
 ## Wireframes 
-## Trello Screenshots
+
+## Screenshots of your Trello board throughout the duration of the project
+
+Trello Monday 2 Dec 2019
+![Trello Day 1](docs/trelloScr/trello_2-12.png)
