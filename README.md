@@ -13,7 +13,10 @@ The target auidence for this application are the owners of commerical and reside
 ## Tech Stack
 The tech stack that we have utilised for this project is the MERN stack. This stack uses MongoDB as the database, Express for the server, React for the front end and Node.js as the server enviroment. 
 ## Dataflow Diagram
+![DFD Login Diagram](docs/DFDAdmin_Login.png)
+![DFD Review Diagram](docs/DFDLeave_Review.png)
 ## Applicaion Architecture Diagram
+![Application Architecture Diagram](docs/Application_Stack_Diagram.png)
 ## User Stories
 #### US1 - As a User I can see a list of products and services.
 #### US2 - As a User I can equire about a product and/or service.
