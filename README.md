@@ -1,4 +1,4 @@
-# RefconGroupSite
+# RefconGroup Website
 Website for the Refon Group
 ## Purpose
 The purpose of this web application is to increase the Refcon groups online presence and to give their clients an online platform to review the products and services that are offered. At this point in time refcon has a very basic outdated website our goal is to redesign it to be modern and responsive.
