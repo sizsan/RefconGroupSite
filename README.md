@@ -55,7 +55,7 @@ Database: [MongoDB](https://www.mongodb.com/)
 
 ## Screenshots of your Trello board throughout the duration of the project
 
-Week 1
+Week 1  
 Trello Monday 2 Dec 2019
 
 ![Trello Day 1](docs/trelloScr/TrScr02-12-2019.png)
