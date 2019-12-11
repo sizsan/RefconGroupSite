@@ -1,0 +1,32 @@
+{
+  "name": "refcongroupsite",
+  "version": "1.0.0",
+  "description": "Website for the Refon Group ## Purpose The purpose of this web application is to increase the Refcon groups online presence and to give their clients an online platform to review the products and services that are offered. At this point in time the Refcon Group has a very basic outdated website our goal is to redesign it to be modern and responsive. ## Functionality / Features The functionality that was discussed for the MVP is: - User Reviews - Photo Gallery - Product Pages - Links to social medias ## Target Audience The target auidence for this application are the owners of commerical and residential airconditioning and refrigeration units or put simpily the clientele of the Refcon Group.  ## Tech Stack The tech stack that we have utilised for this project is the [MERN](https://www.be-practical.com/What-is-MERN-Stack-Development.html) stack.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sizsan/RefconGroupSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sizsan/RefconGroupSite/issues"
+  },
+  "homepage": "https://github.com/sizsan/RefconGroupSite#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
