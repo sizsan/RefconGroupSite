@@ -11,7 +11,14 @@ The functionality that was discussed for the MVP is:
 ## Target Audience
 The target auidence for this application are the owners of commerical and residential airconditioning and refrigeration units or put simpily the clientele of the Refcon Group. 
 ## Tech Stack
-The tech stack that we have utilised for this project is the MERN stack. This stack uses MongoDB as the database, Express for the server, React for the front end and Node.js as the server enviroment. 
+The tech stack that we have utilised for this project is the [MERN](https://www.be-practical.com/What-is-MERN-Stack-Development.html) stack.
+
+Frontend: [React](https://reactjs.org/)
+
+Backend: [Node.js](https://nodejs.org/en/) and [Express.js](https://expressjs.com/)
+
+Database: [MongoDB](https://www.mongodb.com/)
+
 ## Dataflow Diagram
 ![DFD Review Diagram](docs/DFDRefcon.png)
 ## Applicaion Architecture Diagram
