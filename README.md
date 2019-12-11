@@ -12,11 +12,11 @@ At this point in time the Refcon Group has a very basic outdated website that wa
 ## Functionality / Features
 The new Refcon site will consist of the following features:
 #### Photo Gallery
-A photo gallery will provide a way for us to keep the website minimal while also providing the user with different information.
+A photo gallery alongside informational bites is an easy way to convey information in a way that the viewer can digest quickly and conviniently, which also keeps the users attention.
 #### Services Pages
-These pages are going to allow the Refcon Groups clientele to view and request quotes on particular services. They will also act as a UI for the admin account to create, update and delete the services listed on the website.   
+These pages are going to give the Refcon Group clientele the ability to view and request quotes on particular services. They will also act as a UI for the admin account to create, update and delete the services listed on the website.   
 #### User Reviews
-Users Reviews will provide a way for the Refcon Group to receive feedback from their customers as well as testimonies on their quality of work and products.
+Users Reviews will provide a way for the Refcon Group to receive feedback from their customers as well as testimonies to their quality of work and products.
 
 ## Target Audience
 The target audience for this application are the owners of commercial and residential air-conditioning and refrigeration units or put simpily the already existing clientele of the Refcon Group. 
@@ -82,23 +82,23 @@ Database: [MongoDB](https://www.mongodb.com/)
 
 ![Trello Day 6](docs/trelloScr/TrScr11-12-2019.png)
 
-<!-- Week 3 
-Trello Monday 16 Dec 2019
+<!-- ### Week 3 
+*Trello Monday 16 Dec 2019*
 
-Trello Tuesday 17 Dec 2019
+*Trello Tuesday 17 Dec 2019*
 
-Trello Tuesday 18 Dec 2019
+*Trello Tuesday 18 Dec 2019*
 
-Week 4 
-Trello Monday 13 Jan 2020
+### Week 4 
+*Trello Monday 13 Jan 2020*
 
-Trello Tuesday 14 Jan 2020
+*Trello Tuesday 14 Jan 2020*
 
-Trello Tuesday 15 Jan 2020
+*Trello Tuesday 15 Jan 2020*
 
 Week 5
-Trello Monday 20 Jan 2020
+*Trello Monday 20 Jan 2020*
 
-Trello Tuesday 21 Jan 2020
+*Trello Tuesday 21 Jan 2020*
 
-Trello Tuesday 22 Jan 2020 -->
+*Trello Tuesday 22 Jan 2020* -->
