@@ -57,18 +57,18 @@ Database: [MongoDB](https://www.mongodb.com/)
 
 Week 1
 Trello Monday 2 Dec 2019
-![Trello Day 1](docs/trelloScr/trello_2-12.png)
+![Trello Day 1](docs/trelloScr/TrScr02-12-2019.png)
 Trello Tuesday 3 Dec 2019
-
+![Trello Day 2](docs/trelloScr/TrScr03-12-2019.png)
 Trello Wednesday 4 Dec 2019
-
-Week 2
+![Trello Day 3](docs/trelloScr/TrScr04-12-2019.png)
+Week 2  
 Trello Monday 9 Dec 2019
-
+![Trello Day 4](docs/trelloScr/TrScr09-12-2019.png)
 Trello Tuesday 10 Dec 2019
-
+![Trello Day 5](docs/trelloScr/TrScr10-12-2019.png)
 Trello Wednesday 11 Dec 2019
-
+![Trello Day 6](docs/trelloScr/TrScr11-12-2019.png)
 <!-- Week 3 
 Trello Monday 16 Dec 2019
 
