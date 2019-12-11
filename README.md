@@ -102,3 +102,20 @@ Week 5
 *Trello Tuesday 21 Jan 2020*
 
 *Trello Tuesday 22 Jan 2020* -->
+
+## Planning Methodology 
+
+For this project we selected the Kanban methodology. It is a planning framework that utilizes Agile software development. This allows us to remain flexible while also consistently completing tasks. To aid us in the application of this methodology we have implemented a trello board. 
+
+### Assigning Tasks
+Team members will consult the trello board and choose tasks to complete as they finish working on others.
+### Workflow
+No longer than two days will be spent on a task. If more work is required on said task another member of the team will assist in its development 
+### Stand-ups
+Our team will hold a stand-up at the beginning of each day that we meet.( What did you do yesterday? what are you doing today? what are you stuck on?)
+### Source Control
+For this project we have chosen to use a feature branch workflow. Any changes to the code will be made on their own branch and then pushed to a single repository owned by the team leader. Once the changes have been committed, a pull request will be created, and then reviewed, it is then up to the team member who reviewed it to merge it into master.
+### Client Communication
+Jack will be communicating with the client via phone call every Sunday when, as we have been informed, the client is available.
+### Deployment 
+Once a pull request has been merged into the git repository it must be deployed before anything else is.
