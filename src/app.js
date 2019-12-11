@@ -3,6 +3,9 @@ const cors = require("cors")
 const bodyParser = require("body-parser")
 const mongoose = require("mongoose")
 
+const productRouter = require('./routes/products_routes');
+
+
 
 const port = 3000
 
@@ -25,6 +28,9 @@ mongoose.connect(dbConn, {
             console.log('Connected to database!');
         }
     });
+
+//routing
+app.use('/services', serviceRouter)
 
 app.listen(port, () => {
 	console.log(`REFCON group MERN app listening on port ${port}`)
