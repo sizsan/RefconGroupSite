@@ -53,9 +53,9 @@ Database: [MongoDB](https://www.mongodb.com/)
 ### Mobile Services Page
 ![Mobile Services Page](docs/Wireframe_Mobile_Services.png)   ![Mobile Service Page](docs/Wireframe_Mobile_ServicePage.png)
 
-## Screenshots of your Trello board throughout the duration of the project
+## Trello Screenshots
 
-Week 1  
+**Week 1**  
 Trello Monday 2 Dec 2019
 
 ![Trello Day 1](docs/trelloScr/TrScr02-12-2019.png)
@@ -69,7 +69,7 @@ Trello Wednesday 4 Dec 2019
 ![Trello Day 3](docs/trelloScr/TrScr04-12-2019.png)
 
 
-Week 2  
+**Week 2**  
 Trello Monday 9 Dec 2019
 
 ![Trello Day 4](docs/trelloScr/TrScr09-12-2019.png)
