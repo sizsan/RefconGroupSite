@@ -69,7 +69,7 @@ Trello Wednesday 4 Dec 2019
 ![Trello Day 3](docs/trelloScr/TrScr04-12-2019.png)
 
 
-#### **Week 2**  
+### **Week 2**  
 Trello Monday 9 Dec 2019
 
 ![Trello Day 4](docs/trelloScr/TrScr09-12-2019.png)
