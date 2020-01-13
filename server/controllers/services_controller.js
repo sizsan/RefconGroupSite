@@ -1,3 +1,7 @@
+const {
+    addService
+} = require('../utils/service_utils');
+
 const makeService = function (req, res) {
     addService(req).save((err, post) => {
         if (err) {
@@ -10,3 +14,7 @@ const makeService = function (req, res) {
         res.send(post);
     });
 };
+
+module.exports = {
+    makeService
+}
