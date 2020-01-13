@@ -12,17 +12,16 @@ const deleteService = function (id) {
     return Service.findByIdAndRemove(id);
 };
 
-// const updateService = function (req) {
-//     return Service.findByIdAndUpdate(req.params.id, req.body, {
-//         new: true
-//     });
-// };
+const updateService = function (req) {
+    return Service.findByIdAndUpdate(req.params.id, req.body, {
+        new: true
+    });
+};
 
 
 module.exports = {
     addService,
-    getAllServices
-    // ,
-    // deleteService,
-    // updateService
+    getAllServices,
+    deleteService,
+    updateService
 }
