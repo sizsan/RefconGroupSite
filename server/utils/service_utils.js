@@ -18,7 +18,6 @@ const updateService = function (req) {
     });
 };
 
-
 module.exports = {
     addService,
     getAllServices,
