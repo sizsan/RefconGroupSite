@@ -41,6 +41,7 @@ const getServices = function (req, res) {
                 error: err.message
             });
         }
+        // console.log(res)
         res.send(services);
     });
 };
@@ -74,6 +75,7 @@ const changeService = function (req, res) {
                     error: err.message
                 });
             }
+            // console.log(res)
             res.status(200);
             res.send(service);
         });
