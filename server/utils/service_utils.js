@@ -9,7 +9,7 @@ const getAllServices = function (req) {
 };
 
 const getAService = function(req) {
-    console.log(req.params)
+    // console.log(req.params)
     return Service.findById(req.params.id)
 }
 
@@ -18,6 +18,7 @@ const deleteService = function (id) {
 };
 
 const updateService = function (req) {
+    // console.log(req.params)
     return Service.findByIdAndUpdate(req.params.id, req.body, {
         new: true
     });
