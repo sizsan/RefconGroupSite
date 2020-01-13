@@ -1,6 +1,7 @@
 const {
     addService,
     getAllServices,
+    getAService,
     deleteService,
     updateService
 } = require('../utils/service_utils');
@@ -17,6 +18,19 @@ const makeService = function (req, res) {
         res.send(post);
     });
 };
+
+const getService = function(req, res) {
+    getAService(req).
+    exec((err, service) => {
+        if (err) {
+            res.status(500);
+            res.json({
+                error:err.message
+            });
+        }
+        res.send(service);
+    })
+}
 
 const getServices = function (req, res) {
     getAllServices(req).
@@ -53,7 +67,7 @@ const changeService = function (req, res) {
         res.status(req.error.status);
         res.send(req.error.message);
     } else {
-        updateService(req).exec((err, post) => {
+        updateService(req).exec((err, service) => {
             if (err) {
                 res.status(500);
                 res.json({
@@ -61,7 +75,7 @@ const changeService = function (req, res) {
                 });
             }
             res.status(200);
-            res.send(post);
+            res.send(service);
         });
     }
 };
@@ -69,6 +83,7 @@ const changeService = function (req, res) {
 module.exports = {
     makeService,
     getServices,
+    getService,
     changeService,
     removeService
 }
