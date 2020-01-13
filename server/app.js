@@ -5,8 +5,6 @@ const mongoose = require("mongoose")
 
 const serviceRouter = require('./routes/services_router');
 
-
-
 const port = 3000
 
 const app = express()
