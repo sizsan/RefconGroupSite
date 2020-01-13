@@ -8,6 +8,11 @@ const getAllServices = function (req) {
     return Service.find();
 };
 
+const getAService = function(req) {
+    console.log(req.params)
+    return Service.findById(req.params.id)
+}
+
 const deleteService = function (id) {
     return Service.findByIdAndRemove(id);
 };
@@ -21,6 +26,7 @@ const updateService = function (req) {
 module.exports = {
     addService,
     getAllServices,
+    getAService,
     deleteService,
     updateService
 }
